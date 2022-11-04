@@ -23,7 +23,7 @@ const SocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="facebook-link" src="../assets/Github.png" />
+        <img alt="github-link" src="../assets/Github.png" />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
